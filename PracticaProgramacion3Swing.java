@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package practicaprogramacion3swing;
 
 import java.awt.Color;
@@ -192,7 +187,7 @@ class MyMenubarListener implements ActionListener {
                 break; 
                 
             case "Acerca de..":
-                JOptionPane.showMessageDialog(null,"<html><H3> PracticaProgramacion3Swing<html><H3><br>Version 1.0<br>Author Sergio Amores Arias<br>EverisSchool");
+                JOptionPane.showMessageDialog(null,"<html><H3> PracticaProgramacion3Swing<html><H3><br>Version 1.0<br>");
                 break;
             
             default:
