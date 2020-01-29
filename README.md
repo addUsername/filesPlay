@@ -9,5 +9,7 @@ in a "switch bucle" way of thinking, like the program was designed before.
 
 This software was not designed to be trusted, errors may happen.
 
+<img src="screen1.jpg" align="center">
+
 @Version: 1.0 (further updates not scheduled)
 06/01/2020
